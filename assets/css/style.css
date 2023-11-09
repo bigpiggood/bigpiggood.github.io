@@ -1240,14 +1240,14 @@ a:hover {
   .info_box {
     /* align-items: center;
     align-content: center; */
-    vertical-align: middle;
     text-align: center;
     margin-top: 10px;
   }
 
   .info_box_2 {
-    vertical-align: middle;
-
+    vertical-align:middle;
+    text-align: center;
+    margin-top: 3px;
   }
 }
 
