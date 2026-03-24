@@ -167,7 +167,7 @@ a:hover {
 }
 
 .line-mf {
-  width: 40px;
+  width: 60px;
   height: 5px;
   background-color: #5a5a5a;
   margin: 0 auto;
@@ -175,7 +175,7 @@ a:hover {
 
 /*--/ Title Left /--*/
 .title-box-2 {
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .title-left {
