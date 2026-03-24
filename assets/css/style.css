@@ -1490,3 +1490,10 @@ footer .credits a {
 .category_box:hover {
   background-color: #3f3f3f;
 }
+
+
+.subtitle {
+  font-size: 18px;
+  color: #666;
+  margin-top: 10px;
+}
